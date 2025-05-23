@@ -1,4 +1,4 @@
-# 🧠 Natural Language Processing Coursework - Reddit Israel-Gaza Analysis
+# 🧠 Natural Language Processing - Reddit Israel-Gaza Analysis
 
 This repository contains the complete solution for the **PUSL3189 - Natural Language Processing** coursework. The project involves applying core NLP techniques on a dataset scraped from Reddit using the PRAW (Python Reddit API Wrapper), focusing on discussions around the **Israel-Gaza conflict**.
 
